@@ -1,0 +1,14 @@
+Minim openingMusic = new Minim(this);
+Minim battle1Music = new Minim(this);
+Minim battle2Music = new Minim(this);
+Minim battle3Music = new Minim(this);
+Minim battle4Music = new Minim(this);
+Minim battle5Music = new Minim(this);
+Minim battle6Music = new Minim(this);
+AudioPlayer opening;
+AudioPlayer battle1;
+AudioPlayer battle2;
+AudioPlayer battle3;
+AudioPlayer battle4;
+AudioPlayer battle5;
+AudioPlayer battle6;
